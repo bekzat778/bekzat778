@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**bekzat778/bekzat778** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚙️ I'm an Automation & Control Engineering student.
 
-Here are some ideas to get you started:
+🛡️ I'm currently learning Cybersecurity, focusing on both Blue Team and Red Team.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I'm interested in:
+- Network Security
+- System Administration
+- Penetration Testing
+- SOC & Defensive Security
+- Industrial Control Systems (ICS/SCADA)
+
+🚀 I'm always learning, building, and exploring new technologies.
+
+📫 Feel free to connect with me and check out my projects!
