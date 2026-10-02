@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hey, I'm Bekzat
 
-⚙️ I'm an Automation & Control Engineering student.
+> ⚙️ Automation & Control Engineering Student  
+> 🔐 Cybersecurity Enthusiast
 
-🛡️ I'm currently learning Cybersecurity, focusing on both Blue Team and Red Team.
+### ⚙️ Automation & Control
+🏭 Industrial Automation  
+🎛️ Control Systems  
+💡 Engineering & Technology  
 
-💻 I'm interested in:
-- Network Security
-- System Administration
-- Penetration Testing
-- SOC & Defensive Security
-- Industrial Control Systems (ICS/SCADA)
-
-🚀 I'm always learning, building, and exploring new technologies.
-
-📫 Feel free to connect with me and check out my projects!
+### 🔐 Cybersecurity
+🛡️ Blue Team  
+🔎 SOC Analysis & Threat Detection  
+🌐 Networking & Linux 
