@@ -1,96 +1,204 @@
 <div align="center">
 
-👋 Hey, I'm Bekzat
-⚙️ Automation & Control Engineering Student   |   🔐 Cybersecurity Enthusiast
+# 👋 Hey, I'm Bekzat
+
+### ⚙️ Automation & Control Engineering Student
+### 🔐 Cybersecurity Enthusiast
+
+<p>
+  <img src="https://img.shields.io/badge/Automation_%26_Control-0A84FF?style=for-the-badge&logo=siemens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-DC2626?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
 </div>
 
-👨‍💻 About Me
+---
+
+## 👨‍💻 About Me
+
+I'm an **Automation & Control Engineering student** with an equal interest in
+**industrial technologies and cybersecurity**.
+
+I enjoy understanding how systems work, how they communicate, how they can be
+controlled, and how they can be secured.
+
+Currently, I'm developing my skills in both areas and building practical
+projects along the way.
+
+---
+
 <table>
 <tr>
-<td width="55%">
 
-I'm an Automation & Control Engineering student with an equal passion for Cybersecurity.
-I enjoy understanding how systems work — from industrial automation and control systems to networks, security monitoring, and threat detection.
-Currently, I'm developing my skills in both engineering and cybersecurity, with a particular interest in SOC Analysis, SIEM, and Incident Response.
-</td>
-<td width="45%">
+<td width="50%" valign="top">
 
-⚙️ Automation & Control Engineering
-🏭 Industrial Automation & Control Systems
-🔐 Cybersecurity — Red Team & Blue Team
-🛡️ SOC Analysis & Threat Detection
-🌐 Networking & Linux
-📚 Always learning & building
+## ⚙️ Automation & Control
+
+🏭 Industrial Automation
+
+🎛️ Control Systems
+
+🔧 PLC
+
+🖥️ SCADA
+
+⚡ Industrial Technologies
+
+🌐 Industrial Networks
+
 </td>
+
+<td width="50%" valign="top">
+
+## 🔐 Cybersecurity
+
+🔵 Blue Team
+
+🔴 Red Team
+
+🛡️ SOC Analysis
+
+📊 SIEM & Log Analysis
+
+🔎 Threat Detection
+
+🚨 Incident Response
+
+</td>
+
 </tr>
 </table>
 
-⚙️ Automation & Control
+---
+
+## 🛠️ Technologies & Tools
+
+### ⚙️ Automation
+
 <p>
-<img src="https://img.shields.io/badge/PLC-1E293B?style=for-the-badge&logo=siemens&logoColor=white">
-<img src="https://img.shields.io/badge/SCADA-1E293B?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Siemens-009999?style=for-the-badge&logo=siemens&logoColor=white">
-<img src="https://img.shields.io/badge/Control_Systems-1E293B?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Industrial_Automation-1E293B?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Industrial_Networks-1E293B?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/PLC-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SCADA-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Siemens-009999?style=for-the-badge&logo=siemens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Control_Systems-1E293B?style=for-the-badge"/>
 </p>
 
-🔐 Cybersecurity
+### 🔐 Cybersecurity
+
 <p>
-<img src="https://img.shields.io/badge/Blue_Team-2563EB?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Red_Team-DC2626?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/SOC-0F172A?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/SIEM-0F172A?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Threat_Detection-0F172A?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Incident_Response-0F172A?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Burp_Suite-111827?style=for-the-badge&logo=burpsuite&logoColor=FF6633"/>
+<img src="https://img.shields.io/badge/SIEM-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Splunk-111827?style=for-the-badge&logo=splunk&logoColor=65A637"/>
 </p>
 
-🛠️ Security Tools
+### 💻 Programming & Tools
+
 <p>
-<img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white">
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
-<img src="https://img.shields.io/badge/Nmap-111827?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Burp_Suite-111827?style=for-the-badge&logo=burpsuite&logoColor=FF6633">
-<img src="https://img.shields.io/badge/Splunk-111827?style=for-the-badge&logo=splunk&logoColor=65A637">
-<img src="https://img.shields.io/badge/ELK_Stack-111827?style=for-the-badge&logo=elastic&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
-💻 Languages & Tools
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnubash&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-</p>
+---
 
-🎯 Current Focus
-Automation & Control  ──────────────── ⚙️
-Industrial Systems    ──────────────── 🏭
-Cybersecurity         ──────────────── 🔐
-SOC / SIEM            ──────────────── 🛡️
-Networking & Linux    ──────────────── 🌐
-Continuous Learning   ──────────────── 🚀
-Learn • Build • Break • Secure
+## 🎯 Current Focus
 
-📫 Connect With Me
-<p>
-<a href="https://github.com/bekzat778">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://tryhackme.com/">
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white">
-</a>
-<a href="https://www.hackthebox.com/">
-<img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black">
-</a>
-</p>
+<table>
+<tr>
+
+<td width="50%">
+
+### ⚙️ Engineering
+
+- Industrial Automation
+- Control Systems
+- PLC & SCADA
+- Industrial Networks
+
+</td>
+
+<td width="50%">
+
+### 🔐 Security
+
+- SOC Analysis
+- SIEM
+- Threat Detection
+- Incident Response
+- Network Security
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 📚 Learning Philosophy
+
+> **Understand the system.  
+> Learn how it works.  
+> Find how it can fail.  
+> Learn how to secure it.**
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-⚙️ Automation • 🔐 Cybersecurity • 🚀 Continuous Learning
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bekzat778&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekzat778&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/bekzat778">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://tryhackme.com/">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+</a>
+
+<a href="https://www.hackthebox.com/">
+<img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚙️ Automation & Control  •  🔐 Cybersecurity
+
+**Learn • Build • Analyze • Secure**
+
 </div>
