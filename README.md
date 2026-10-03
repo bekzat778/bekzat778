@@ -16,6 +16,16 @@
 
 ---
 
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
 ## 👨‍💻 About Me
 
 I'm an **Automation & Control Engineering student** with an equal interest in
@@ -140,26 +150,6 @@ projects along the way.
 
 ---
 
-## 📚 Learning Philosophy
-
-> **Understand the system.  
-> Learn how it works.  
-> Find how it can fail.  
-> Learn how to secure it.**
-
----
-
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -168,7 +158,7 @@ projects along the way.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/bekzat-kairbulatov-928291393/)">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -176,7 +166,7 @@ projects along the way.
 <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 </a>
 
-<a href="https://www.hackthebox.com/">
+<a href="[https://www.hackthebox.com/](https://www.instagram.com/k.bekzz?stkn=MWlyNWFjZW9lbGZ2cQ%3D%3D&utm_source=qr)">
 <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
 </a>
 
