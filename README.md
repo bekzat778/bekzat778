@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="BEKZAT">
+<img src="1.png" width="100%" alt="BEKZAT">
 
 <br>
 
