@@ -6,20 +6,11 @@
 ### 🔐 Cybersecurity Enthusiast
 
 <p>
-  <img src="https://img.shields.io/badge/Automation_%26_Control-0A84FF?style=for-the-badge&logo=siemens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-DC2626?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AUTOMATION_%26_CONTROL-1683FF?style=for-the-badge&logo=siemens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CYBERSECURITY-E63946?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LINUX-111827?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
-
-</div>
-
----
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bekzat778&bg_color=0D1117&color=58A6FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true&custom_title=Bekzat%27s%20Contribution%20Graph" width="100%"/>
 
 </div>
 
@@ -27,14 +18,14 @@
 
 ## 👨‍💻 About Me
 
-I'm an **Automation & Control Engineering student** with an equal interest in
-**industrial technologies and cybersecurity**.
+> I'm an **Automation & Control Engineering student** with an equal interest in  
+> **industrial technologies and cybersecurity**.
 
-I enjoy understanding how systems work, how they communicate, how they can be
-controlled, and how they can be secured.
+I enjoy understanding how systems work — how they are **controlled, connected,
+monitored, and secured**.
 
-Currently, I'm developing my skills in both areas and building practical
-projects along the way.
+Currently, I'm building practical skills across both fields and exploring
+different technologies through projects and hands-on labs.
 
 ---
 
@@ -45,17 +36,12 @@ projects along the way.
 
 ## ⚙️ Automation & Control
 
-🏭 Industrial Automation
-
-🎛️ Control Systems
-
-🔧 PLC
-
-🖥️ SCADA
-
-⚡ Industrial Technologies
-
-🌐 Industrial Networks
+🏭 Industrial Automation  
+🎛️ Control Systems  
+🔧 PLC  
+🖥️ SCADA  
+⚡ Industrial Technologies  
+🌐 Industrial Networks  
 
 </td>
 
@@ -63,17 +49,12 @@ projects along the way.
 
 ## 🔐 Cybersecurity
 
-🔵 Blue Team
-
-🔴 Red Team
-
-🛡️ SOC Analysis
-
-📊 SIEM & Log Analysis
-
-🔎 Threat Detection
-
-🚨 Incident Response
+🔵 Blue Team  
+🔴 Red Team  
+🛡️ SOC Analysis  
+📊 SIEM & Log Analysis  
+🔎 Threat Detection  
+🚨 Incident Response  
 
 </td>
 
@@ -84,13 +65,14 @@ projects along the way.
 
 ## 🛠️ Technologies & Tools
 
-### ⚙️ Automation
+### ⚙️ Automation & Control
 
 <p>
 <img src="https://img.shields.io/badge/PLC-1E293B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SCADA-1E293B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Siemens-009999?style=for-the-badge&logo=siemens&logoColor=white"/>
 <img src="https://img.shields.io/badge/Control_Systems-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Industrial_Networks-1E293B?style=for-the-badge"/>
 </p>
 
 ### 🔐 Cybersecurity
@@ -125,58 +107,9 @@ projects along the way.
 
 ### ⚙️ Engineering
 
-- Industrial Automation
-- Control Systems
-- PLC & SCADA
-- Industrial Networks
-
-</td>
-
-<td width="50%">
-
-### 🔐 Security
-
-- SOC Analysis
-- SIEM
-- Threat Detection
-- Incident Response
-- Network Security
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 🌐 Connect With Me
-
+```text
+Industrial Automation
+Control Systems
+PLC / SCADA
+Industrial Networks
 <div align="center">
-
-<a href="https://github.com/bekzat778">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/bekzat-kairbulatov-928291393/)">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://tryhackme.com/">
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-</a>
-
-<a href="[https://www.hackthebox.com/](https://www.instagram.com/k.bekzz?stkn=MWlyNWFjZW9lbGZ2cQ%3D%3D&utm_source=qr)">
-<img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚙️ Automation & Control  •  🔐 Cybersecurity
-
-**Learn • Build • Analyze • Secure**
-
-</div>
