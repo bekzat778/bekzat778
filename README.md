@@ -9,10 +9,8 @@
 # 👋 Hey, I'm Bekzat 
 
 </div>
-
-<div align="center">
   
-## ⚙️ Automation & Control Engineering and 🔐 Cybersecurity
+## ⚙️ Automation & Control Engineering and 🔐 Cybersecurity Enthusiast
 
 
 <p>
