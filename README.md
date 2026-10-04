@@ -16,11 +16,9 @@
 
 ---
 
-## 🐍 Contribution Graph
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bekzat778&bg_color=0D1117&color=58A6FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true&custom_title=Bekzat%27s%20Contribution%20Graph" width="100%"/>
 
 </div>
 
