@@ -6,13 +6,13 @@
 
 <br>
 
-## ⚙️ Automation & Control Engineering and 🔐 Cybersecurity
+# 👋 Hey, I'm Bekzat 
 
 </div>
 
 <div align="center">
-
-# 👋 Hey, I'm Bekzat
+  
+## ⚙️ Automation & Control Engineering and 🔐 Cybersecurity
 
 
 <p>
