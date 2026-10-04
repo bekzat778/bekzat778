@@ -1,15 +1,18 @@
 <div align="center">
 
-# 👋 Hey, I'm Bekzat 
-
 <img src="1.png" width="100%" alt="BEKZAT">
 
+<br><br>
 
-# 👋 Hey, I'm Bekzat 
-## ⚙️ Automation & Control Engineering and 🔐 Cybersecurity Enthusiast
-</div>
+<strong style="font-size: 32px;">👋 Hey, I'm Bekzat</strong>
 
-<div align="center">
+<br><br>
+
+<strong>⚙️ Automation & Control Engineering</strong>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<strong>🔐 Cybersecurity Enthusiast</strong>
+
+<br><br>
 
 <p>
   <img src="https://img.shields.io/badge/AUTOMATION_%26_CONTROL-1683FF?style=for-the-badge&logo=siemens&logoColor=white"/>
@@ -20,21 +23,38 @@
 
 </div>
 
+<br>
 
-## 👨‍💻 About Me
+<div>
 
-> I'm an **Automation & Control Engineering student** with an equal interest in  
-> **industrial technologies and cybersecurity**.
+<strong>👨‍💻 About Me</strong>
 
-I enjoy understanding how systems work — how they are **controlled, connected,
-monitored, and secured**.
+<br><br>
+
+I'm an <strong>Automation & Control Engineering student</strong> with an equal interest in
+<strong>industrial technologies and cybersecurity</strong>.
+
+<br><br>
+
+I enjoy understanding how systems work — how they are
+<strong>controlled, connected, monitored, and secured</strong>.
+
+<br><br>
 
 Currently, I'm building practical skills across both fields and exploring
 different technologies through projects and hands-on labs.
 
-## 🛠️ Technologies & Tools
+</div>
 
-### ⚙️ Automation & Control
+<br><br>
+
+<div>
+
+<strong>🛠️ Technologies & Tools</strong>
+
+<br><br>
+
+<strong>⚙️ Automation & Control</strong>
 
 <p>
 <img src="https://img.shields.io/badge/PLC-1E293B?style=for-the-badge"/>
@@ -44,7 +64,9 @@ different technologies through projects and hands-on labs.
 <img src="https://img.shields.io/badge/Industrial_Networks-1E293B?style=for-the-badge"/>
 </p>
 
-### 🔐 Cybersecurity
+<br>
+
+<strong>🔐 Cybersecurity</strong>
 
 <p>
 <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white"/>
@@ -55,7 +77,9 @@ different technologies through projects and hands-on labs.
 <img src="https://img.shields.io/badge/Splunk-111827?style=for-the-badge&logo=splunk&logoColor=65A637"/>
 </p>
 
-### 💻 Programming & Tools
+<br>
+
+<strong>💻 Programming & Tools</strong>
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -65,4 +89,5 @@ different technologies through projects and hands-on labs.
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
+</div>
 
