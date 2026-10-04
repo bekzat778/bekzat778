@@ -108,44 +108,4 @@ I enjoy understanding how systems are
 
 <br><br>
 
-<div align="center">
-
-## 🎯 Current Focus
-
-<table>
-<tr>
-
-<td align="center" width="50%">
-
-### ⚙️ Engineering
-
-`PLC / SCADA`
-
-`Control Systems`
-
-`Industrial Automation`
-
-`Industrial Networks`
-
-</td>
-
-<td align="center" width="50%">
-
-### 🔐 Cybersecurity
-
-`SOC Analysis`
-
-`SIEM`
-
-`Threat Detection`
-
-`Incident Response`
-
-`Network Security`
-
-</td>
-
-</tr>
-</table>
-
 </div>
