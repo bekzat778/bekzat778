@@ -1,5 +1,21 @@
 <div align="center">
 
+<img src="1.png" width="100%" alt="Bekzat Banner">
+
+</div>
+
+<br>
+
+<div align="center">
+
+# 👋 Hey, I'm Bekzat
+
+### ⚙️ Automation & Control Engineering Student
+### 🔐 Cybersecurity Enthusiast
+
+</div>
+<div align="center">
+
 # 👋 Hey, I'm Bekzat
 
 ### ⚙️ Automation & Control Engineering Student
