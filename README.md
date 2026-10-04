@@ -7,11 +7,10 @@
 <br>
 
 # 👋 Hey, I'm Bekzat 
-
-</div>
-  
 ## ⚙️ Automation & Control Engineering and 🔐 Cybersecurity Enthusiast
+</div>
 
+<div align="center">
 
 <p>
   <img src="https://img.shields.io/badge/AUTOMATION_%26_CONTROL-1683FF?style=for-the-badge&logo=siemens&logoColor=white"/>
