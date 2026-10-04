@@ -48,7 +48,7 @@ different technologies through projects and hands-on labs.
 
 🏭 Industrial Automation  
 🎛️ Control Systems  
-🔧 PLC  
+🔧 Siemens
 🖥️ SCADA  
 ⚡ Industrial Technologies  
 🌐 Industrial Networks  
@@ -59,8 +59,7 @@ different technologies through projects and hands-on labs.
 
 ## 🔐 Cybersecurity
 
-🔵 Blue Team  
-🔴 Red Team  
+🔵 Blue Team   
 🛡️ SOC Analysis  
 📊 SIEM & Log Analysis  
 🔎 Threat Detection  
