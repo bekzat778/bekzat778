@@ -149,19 +149,3 @@ I enjoy understanding how systems are
 </table>
 
 </div>
-
-<br>
-
-<div align="center">
-
-## 🚀 Learning by Doing
-
-> **Understand → Build → Analyze → Secure**
-
-<br>
-
-I'm constantly learning through  
-**projects, labs, experiments, and hands-on practice.**
-
-</div>
-
