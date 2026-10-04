@@ -4,8 +4,7 @@
 
 <br>
 
-## ⚙️ Automation & Control Engineering Student
-## 🔐 Cybersecurity Enthusiast
+## ⚙️ Automation & Control Engineering and 🔐 Cybersecurity
 
 </div>
 
