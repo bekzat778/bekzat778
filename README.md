@@ -1,10 +1,13 @@
 <div align="center">
 
-<img src="1.png" width="100%" alt="Bekzat Banner">
-
-</div>
+<img src="./assets/banner.png" width="100%" alt="BEKZAT">
 
 <br>
+
+## ⚙️ Automation & Control Engineering Student
+## 🔐 Cybersecurity Enthusiast
+
+</div>
 
 <div align="center">
 
