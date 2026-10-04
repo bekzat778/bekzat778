@@ -37,41 +37,6 @@ monitored, and secured**.
 Currently, I'm building practical skills across both fields and exploring
 different technologies through projects and hands-on labs.
 
----
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## ⚙️ Automation & Control
-
-🏭 Industrial Automation  
-🎛️ Control Systems  
-🔧 Siemens
-🖥️ SCADA  
-⚡ Industrial Technologies  
-🌐 Industrial Networks  
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🔐 Cybersecurity
-
-🔵 Blue Team   
-🛡️ SOC Analysis  
-📊 SIEM & Log Analysis  
-🔎 Threat Detection  
-🚨 Incident Response  
-
-</td>
-
-</tr>
-</table>
-
----
-
 ## 🛠️ Technologies & Tools
 
 ### ⚙️ Automation & Control
