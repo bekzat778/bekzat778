@@ -113,19 +113,3 @@ different technologies through projects and hands-on labs.
 </p>
 
 ---
-
-## 🎯 Current Focus
-
-<table>
-<tr>
-
-<td width="50%">
-
-### ⚙️ Engineering
-
-```text
-Industrial Automation
-Control Systems
-PLC / SCADA
-Industrial Networks
-<div align="center">
