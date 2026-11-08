@@ -28,13 +28,19 @@
 ## 🧑‍💻 About Me
 
 <p>
-I'm an <strong>Automation & Control Engineering student</strong> with an equal
+I'm a <strong>4th-year Automation & Control Engineering student</strong> at
+<strong>Kazakh-British Technical University (KBTU)</strong> with an equal
 interest in <strong>industrial technologies and cybersecurity</strong>.
 </p>
 
 <p>
 I enjoy understanding how systems are
 <strong>controlled, connected, monitored, and secured</strong>.
+</p>
+
+<p>
+📚 Currently preparing for the <strong>Cisco CCNA</strong> exam and
+practising on <strong>Hack The Box</strong>.
 </p>
 
 </div>
@@ -56,6 +62,7 @@ I enjoy understanding how systems are
 🎛️ Control Systems  
 🔧 PLC  
 🖥️ SCADA  
+📟 HMI  
 ⚡ Industrial Technologies  
 🌐 Industrial Networks  
 
@@ -69,6 +76,7 @@ I enjoy understanding how systems are
 
 </div>
 
+🧱 Network Security  
 🔵 Blue Team  
 🔴 Red Team  
 🛡️ SOC Analysis  
@@ -91,7 +99,9 @@ I enjoy understanding how systems are
 
 <img src="https://img.shields.io/badge/PLC-1E293B?style=for-the-badge">
 <img src="https://img.shields.io/badge/SCADA-1E293B?style=for-the-badge">
+<img src="https://img.shields.io/badge/HMI-1E293B?style=for-the-badge">
 <img src="https://img.shields.io/badge/Siemens-009999?style=for-the-badge&logo=siemens&logoColor=white">
+<img src="https://img.shields.io/badge/Schneider_Electric-3DCD58?style=for-the-badge&logo=schneiderelectric&logoColor=white">
 <img src="https://img.shields.io/badge/Control_Systems-1E293B?style=for-the-badge">
 <img src="https://img.shields.io/badge/Industrial_Networks-1E293B?style=for-the-badge">
 
@@ -99,6 +109,8 @@ I enjoy understanding how systems are
 
 ### 🔐 Security
 
+<img src="https://img.shields.io/badge/CCNA-in_progress-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
+<img src="https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00">
 <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
 <img src="https://img.shields.io/badge/Nmap-111827?style=for-the-badge">
